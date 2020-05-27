@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="app_name">Gumber</string>
+<string name="btn_start">Pradėti žaidimą</string>
+<string name="btn_results">Rezultatai</string>
+<string name="btn_settings">Nustatymai</string>
+<string name="btn_about">Apie</string>
+    <string-array name="difficulty_items">
+        <item>Lengvas</item>
+        <item>Vidutinis</item>
+        <item>Sunkus</item>
+        <item>Neįveikiamas</item>
+    </string-array>
+    <string name="number_range_format">Guess a number in range %d to %d</string>
+    <string name="turns_format">Turn %d of %d</string>
+    <string name="result_format">Guessed number was %d and it was too %s.</string>
+    <string name="result_high">high</string>
+    <string name="result_low">low</string>
+</resources>
